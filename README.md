@@ -1,4 +1,4 @@
-#Generating Anime Faces with DCGAN: A Dataset of High-Quality Anime
+# Generating Anime Faces with DCGAN: A Dataset of High-Quality Anime
 
 Table of contents:
 Introduction
